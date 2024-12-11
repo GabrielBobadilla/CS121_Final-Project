@@ -3,7 +3,7 @@
 HeritagePulsePH is a digital platform that aims to preserve and promote Philippine folk dance traditions. It provides a centralized repository of dance documentation, choreography, historical context, and multimedia resources. Targeting educators, researchers, and cultural enthusiasts, the platform enhances cultural education and identity while addressing the fragmented access to cultural resources. By 2025, it seeks to document 70% of known folk dances and improve user engagement and resource accessibility.
 # II. Applied Python Concepts and Libraries
 The project utilizes Python concepts and libraries such as Tkinter for the graphical user interface, Pillow for image processing, and canvas-scrollbar integration for dynamic content navigation. Key features include dynamic UI updates, error handling for robust performance, and file management for efficient retrieval and display of multimedia resources.
-# Sustainable Development Goals
+# III. Sustainable Development Goals
 HeritagePulsePH aligns with multiple SDGs, including SDG 4 (Quality Education) by promoting cultural learning, SDG 10 (Reduced Inequalities) by highlighting marginalized traditions, and SDG 11 (Sustainable Cities and Communities) through cultural preservation. It also supports SDG 16 (Peace, Justice, and Strong Institutions) and SDG 17 (Partnerships for the Goals) by fostering collaboration and mutual respect.
-# Instructions for Running the Application
+# IV. Instructions for Running the Application
 To run the application, ensure Python 3.x is installed and use the command pip install pillow to install dependencies. Launch the program with python main.py. Users can create accounts, explore categorized dance resources, and access interactive features like the GIS-based map. Account management options include logging out and account deletion for a smooth user experience.
